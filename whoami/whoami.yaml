@@ -45,7 +45,7 @@ metadata:
   name: whoami
 spec:
   rules:
-  - host: whoami.rfed.io
+  - host:
     http:
       paths:
       - path: /
